@@ -70,7 +70,7 @@
 
 [![CommitPulse Contribution Graph for aryankpandey](https://commitpulse.vercel.app/api/streak?user=aryankpandey)](https://commitpulse.vercel.app/dashboard/aryankpandey)
 
-</div>" width="100%" alt="3D Contribution Graph" />
+
 </p>
 
 ---
