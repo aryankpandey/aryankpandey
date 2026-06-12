@@ -11,10 +11,28 @@
 
 ## 👨‍💻 About Me
 
-* 🧠 I am a **Self-Taught Developer** with deep expertise in **Java** and backend architecture, but fully capable of spinning up sleek **Full-Stack** applications.
-* 🚀 Currently hyper-focused on architecting high-performance **personal projects**.
+# Hello, World! I'm Aryan Kumar Pandey 🚀
+
+I am a results-driven **Full-Stack Developer** specializing in **Backend Engineering**. I focus on building secure, efficient, and scalable web applications from the ground up. 
+
+What sets me apart is my ability to combine core backend technical proficiency with an eye for graphic design—enabling me to deliver comprehensive full-stack solutions that excel in both system architecture and visual layout.
+
+### 🔍 Core Focus Areas
+* **Architecture:** Crafting clean, maintainable backend code and efficient database schemas.
+* **Bridging Design & Dev:** Using design methodologies to enhance full-stack UI/UX workflows.
+* **Continuous Growth:** Actively exploring API ecosystems and modern backend scaling patterns.
+
+### 🧰 Technical Arsenal
+* **Backend:** Node.js / Databases / API Development & Integration
+* **Languages:** Java, Python, C++, JavaScript
+* **Design & Frontend:** UI/UX Concepts, Adobe Photoshop, HTML & CSS
+
+---
+
+🤝 *I am always open to collaborating on robust backend projects, open-source initiatives, or internship opportunities.*
+
 * ⚡ **Fun Fact:** Code looks better when written inside a midnight dark theme.
-* 🤝 **Collaboration:** Open to collaborating on robust Full Stack, intensive Backend, and high-level **System Design** projects.
+
 
 ---
 
