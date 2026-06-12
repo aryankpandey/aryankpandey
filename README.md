@@ -2,12 +2,9 @@
 
 # 👋 Hi, I'm ARYAN KUMAR PANDEY
 
-<p>Backend Developer • Building scalable systems, Retrieval-Augmented Generation (RAG)
-      
-     <p> • Exploring distributed systems, cloud architecture & system design • Curious about LLM's </p>
-
+<p>Backend Developer • Building scalable systems, Retrieval-Augmented Generation (RAG)    
 </p>
-
+<p>• Exploring distributed systems, cloud architecture & system design • Curious about LLM's</p>
 </div>
 
 ---
