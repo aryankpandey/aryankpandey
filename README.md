@@ -6,12 +6,6 @@
 
 </div>
 
-<!-- ANIMATION: Sleek Text Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Aryan+Kumar+Pandey;;Backend+Expert.+Full+Stack+Developer.;;Building+Scalable+System+Designs.;;Self-Taught+&amp;+Constantly+Evolving." alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
