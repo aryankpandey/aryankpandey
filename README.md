@@ -72,7 +72,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/aryankpandey/" target="_blank">
-    <img src="https://wallpapercave.com/wp/wp14289957.png" width="50" alt="LeetCode" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/1200/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.jpg" width="50" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/aryanpandeyyy/" target="_blank">
