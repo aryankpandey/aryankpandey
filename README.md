@@ -1,3 +1,11 @@
+<div align="center">
+
+# 👋 Hi, I'm ARYAN KUMAR PANDEY
+
+<p>Backend Developer • Building scalable systems • Exploring distributed systems, cloud architecture & system design</p>
+
+</div>
+
 <!-- ANIMATION: Sleek Text Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
