@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm ARYAN KUMAR PANDEY
 
-<p>Backend Developer • Building scalable systems, Retrieval-Augmented Generation (RAG)    
+<p>• Backend Developer • Building scalable systems, Retrieval-Augmented Generation (RAG)    
 </p>
 <p>• Exploring distributed systems, cloud architecture & system design • Curious about LLM's</p>
 </div>
@@ -12,7 +12,8 @@
 I am a results-driven **Full-Stack Developer** specializing in **Backend Engineering**.
 I focus on building secure, efficient, and scalable web applications from the ground up. 
 
-What sets me apart is my ability to combine core backend technical proficiency with an eye for graphic design—enabling me to deliver comprehensive full-stack solutions that excel in both system architecture and visual layout.
+What sets me apart is my ability to combine core backend technical proficiency with an eye for graphic design
+enabling me to deliver comprehensive full-stack solutions that excel in both system architecture and visual layout.
 
 ### 🔍 Core Focus Areas
 * **Architecture:** Crafting clean, maintainable backend code and efficient database schemas.
