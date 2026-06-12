@@ -67,7 +67,16 @@
 
 ### 🏙️ Neon City 3D Grid
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=aryankpandey&theme=bright" width="100%" alt="3D Contribution Graph" />
+  <img src="<div align="center">
+
+
+## 📊 GitHub Streak
+
+<div align="center">
+
+[![CommitPulse Contribution Graph for aryankpandey](https://commitpulse.vercel.app/api/streak?user=aryankpandey)](https://commitpulse.vercel.app/dashboard/aryankpandey)
+
+</div>" width="100%" alt="3D Contribution Graph" />
 </p>
 
 ---
