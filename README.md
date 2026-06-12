@@ -59,9 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankpandey&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="48%" alt="Aryan's Top Languages" />
 </p>
 
-### 🏙️ Neon City 3D Grid
-<p align="center">
-  <img src="<div align="center">
+
 
 
 ## 📊 GitHub Streak
