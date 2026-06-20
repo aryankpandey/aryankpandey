@@ -22,7 +22,7 @@ enabling me to deliver comprehensive full-stack solutions that excel in both sys
 
 ### 🧰 Technical Arsenal
 * **Backend:** Node.js / Databases / API Development & Integration
-* **Languages:** Java, Python, C++, JavaScript
+* **Languages:** Java, Python, C++, JavaScript, Go
 * **Design & Frontend:** UI/UX Concepts, Adobe Photoshop, HTML & CSS
 
 ## 🛠️ Tech Stack
