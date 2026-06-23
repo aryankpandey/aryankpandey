@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm ARYAN KUMAR PANDEY
+# 👋 Hi, I'm ARYAN KUMAR PANDEY (aryankpandey)
 
 <p>• Backend Developer • Building scalable systems, Retrieval-Augmented Generation (RAG)    
 </p>
