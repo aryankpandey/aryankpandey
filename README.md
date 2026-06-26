@@ -2,9 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api
   ?type=shark&color=0A0F08&fontColor=CAFF3C
   &text=%3E_%20ARYAN K PANDEY&fontSize=38
-  &desc=Backend+Developer+•+Building+scalable+systems,+Retrieval-Augmented+Generation+(RAG) 
-  Exploring+distributed+systems,+cloud+architecture+&+system+design+•+Curious+about+LLM's
-  &descColor=8AFF57
+  &desc=Backend+Developer+•+Building+scalable+systems,+Retrieval-Augmented+Generation+(RAG)+Exploring+distributed+systems,+cloud+architecture+&+system+design+•+Curious+about+LLM's &descColor=8AFF57
   &animation=fadeIn" />
 </div>
 <div align="center">
