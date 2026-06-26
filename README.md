@@ -177,7 +177,4 @@ enabling me to deliver comprehensive full-stack solutions that excel in both sys
 
 </div>
 
-github-readme-stats.vercel.app/api
-?username=aryankpandey
-github-readme-streak-stats.herokuapp.com
-/user=aryankpandey
+
