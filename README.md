@@ -169,12 +169,5 @@ enabling me to deliver comprehensive full-stack solutions that excel in both sys
 
 ---
 
-## 📊 GitHub Streak
-
-<div align="center">
-
-[![CommitPulse Contribution Graph for aryankpandey](https://commitpulse.vercel.app/api/streak?user=aryankpandey)](https://commitpulse.vercel.app/dashboard/aryankpandey)
-
-</div>
 
 
