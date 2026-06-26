@@ -1,6 +1,7 @@
 <!-- SECTION 1: ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=1A1A1A&text=ARYAN%20KUMAR%20PANDEY&section=header&textBgAnimate=false&fontColor=FFB300&fontSize=65&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Building%20Scalable%20Systems%20%26%20RAG&descAlignY=70&descColor=FFFFFF&height=240&fontStyle=JetBrains%20Mono" alt="Aryan's Banner" />
+  <img src="<img width="1085" height="1450" alt="WhatsApp Image 2026-06-23 at 14 21 27" src="https://github.com/user-attachments/assets/6ae2e480-2f71-47e8-93b4-8390ced7b4f0" />
+"?type=capsule&color=1A1A1A&text=ARYAN%20KUMAR%20PANDEY&section=header&textBgAnimate=false&fontColor=FFB300&fontSize=65&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Building%20Scalable%20Systems%20%26%20RAG&descAlignY=70&descColor=FFFFFF&height=240&fontStyle=JetBrains%20Mono" alt="Aryan's Banner" />
 </div>
 
 <!-- SECTION 2: TYPING SVG -->
