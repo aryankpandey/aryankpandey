@@ -79,23 +79,43 @@ Every project teaches me something new, and every repository reflects another st
 
 ---
 
-
-
-
 ## 💻 LeetCode Stats
-
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/aryankpandey?theme=dark&ext=heatmap)
 
-
-
-
-
-
-
-
+---
 
 ## Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aryankpandey)](https://git.io/streak-stats)
 ## Github Stats
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryankpandey)](https://github.com/aryankpandey/github-readme-activity-graph)
+
+---
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:AryanPandey7161@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aryankpandey">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aryankpandey">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/aryankpandey/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="48" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/aryanpandeyyyy">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X (Twitter)"/>
+  </a>
+</p>
+
+<p align="center">
+Building scalable backend systems • Exploring AI • Always learning
+</p>
