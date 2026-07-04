@@ -83,7 +83,9 @@ Every project teaches me something new, and every repository reflects another st
 <p align="center">
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/aryankpandey?theme=dark&ext=heatmap)
+
 </p>
+
 ---
 
 ## Github Streak
