@@ -131,5 +131,5 @@ Building scalable backend systems • Exploring AI • Always learning
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryankpandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nishant-Tiwari24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
