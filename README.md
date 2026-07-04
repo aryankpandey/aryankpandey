@@ -89,8 +89,10 @@ Every project teaches me something new, and every repository reflects another st
 ---
 
 ## Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aryankpandey)](https://git.io/streak-stats)
-## Github Stats
+<div align="center"
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aryankpandey)](https://git.io/streak-stats)
+</div>
+  ## Github Stats
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryankpandey)](https://github.com/aryankpandey/github-readme-activity-graph)
 
 ---
