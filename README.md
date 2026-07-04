@@ -91,7 +91,12 @@ Every commit is progress.
 
 And this is only the beginning.
 
+---
 
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aryankpandey?theme=dark&font=Nunito&ext=contest)
 
 
 
