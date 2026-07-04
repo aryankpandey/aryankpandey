@@ -79,19 +79,7 @@ Every project teaches me something new, and every repository reflects another st
 
 ---
 
-## Philosophy
 
-> *"Software engineering isn't mastered by watching tutorials—it's mastered by building, breaking, debugging, improving, and shipping."*
-
-That's what this GitHub represents.
-
-Every repository is a lesson.
-
-Every commit is progress.
-
-And this is only the beginning.
-
----
 
 
 ## 💻 LeetCode Stats
