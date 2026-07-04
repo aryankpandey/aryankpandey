@@ -96,7 +96,7 @@ And this is only the beginning.
 
 ## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aryankpandey?theme=dark&font=Nunito&ext=contest)
+
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/aryankpandey?theme=dark&ext=heatmap)
 
 
