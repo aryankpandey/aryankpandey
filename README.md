@@ -26,7 +26,7 @@ What sets me apart is my ability to combine core backend technical proficiency w
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aryankpandey"><img src="https://github-readme-stats.vercel.app/api?username=aryankpandey&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="aryankpandey's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/aryankpandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankpandey&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
