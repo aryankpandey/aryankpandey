@@ -36,7 +36,10 @@ Although backend development remains my primary focus, studying AI gave me a bro
 #### 🎓 2024 — B.Tech in Computer Science
 
 To strengthen my foundation, I joined **Netaji Subhas Institute of Technology (NSIT)** to pursue a Bachelor's degree in Computer Science and Engineering.
-
+My time at Netaji Subhas Institute of Technology (NSIT) has been a journey of growth, learning, and self-discovery.
+Being recognized as Mr. Fresher was a memorable achievement that strengthened my confidence, communication, and leadership skills.
+Beyond academics, I have developed a strong interest in Backend Engineering, Distributed Systems, and System Design, actively building projects to deepen my technical expertise.
+NSIT has provided me with opportunities to collaborate with talented peers, take on new challenges, and continuously improve as both an engineer and an individual. I remain committed to learning, building, and creating impactful technology solutions.
 Since then, I've been continuously improving my understanding of Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Object-Oriented Programming, and System Design—while building projects that put those concepts into practice.
 
 #### 🛠️ 2026 — Building Products, One Commit at a Time
