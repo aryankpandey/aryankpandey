@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aryan Pandey
 =====================================================================================================================================
 
-• Backend Developer • Building scalable systems
+• Backend Developer • Building scalable systems  | 
 -----------------------------------------------                     
 <img width="350" height="350" alt="ChatGPT Image Jul 4, 2026, 03_40_39 PM" src="https://github.com/user-attachments/assets/b5f90674-39fe-41db-b7ea-61bc6b386878" />
 
