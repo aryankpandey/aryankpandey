@@ -128,3 +128,8 @@ Every project teaches me something new, and every repository reflects another st
 <p align="center">
 Building scalable backend systems • Exploring AI • Always learning
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryankpandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
