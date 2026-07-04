@@ -51,11 +51,16 @@ Today, I spend most of my time building software instead of just learning about 
 
 Some of the projects I'm currently working on include:
 
-* 🔥 **ASHES** — A privacy-first ephemeral messaging platform where messages disappear forever once they're read.
-* 🌍 **THE GLOBAL DISPATCH** — A modern news platform focused on delivering information through a clean, scalable, and efficient backend architecture.
-* 🚀 Several experimental backend systems and side projects where I explore system design, performance optimization, cloud technologies, and distributed systems.
+## 🚀 Featured Projects
 
-Every project teaches me something new, and every repository reflects another step in my journey as an engineer.
+| Project                       | Description                                                                                                                                                     | Tech Stack                                     | Repository       | Status             |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ---------------- | ------------------ |
+| **ASHES**                     | A privacy-first ephemeral messaging platform where messages disappear forever after being read, with a strong focus on security, performance, and user privacy. | Flutter • Java • Spring Boot • PostgreSQL      | 🔗 *Coming Soon* | 🚧 In Progress     |
+| **THE GLOBAL DISPATCH**       | A modern news platform designed with a scalable backend architecture, delivering fast, organized, and reliable news content.                                    | Java • Spring Boot • PostgreSQL                | 🔗 *Coming Soon* | 🚧 In Progress     |
+| **Flipkart Clone**            | A full-stack e-commerce platform featuring authentication, shopping cart, product catalog, order management, admin dashboard, and retail POS functionality.     | Java • Spring Boot • PostgreSQL                | 🔗 *Coming Soon* | 🚀 Planned         |
+| **RAG Chatbot**               | An AI-powered Retrieval-Augmented Generation chatbot capable of answering questions from custom documents using vector search and LLMs.                         | Python • LangChain • PyTorch • Vector Database | 🔗 *Coming Soon* | 🚀 Planned         |
+| **Expense Tracker API**       | RESTful backend service supporting JWT authentication, CRUD operations, role-based authorization, and financial transaction management.                         | Java • Spring Boot • PostgreSQL                | 🔗 *Coming Soon* | ✅ Completed        |
+
 
 ---
 
