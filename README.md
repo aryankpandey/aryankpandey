@@ -13,13 +13,13 @@ For me, software engineering has never been about collecting certificates or mem
 
 ## My Journey
 
-### 🚀 2018 — Where It All Started
+#### 🚀 2018 — Where It All Started
 
 My journey into programming began with HTML, CSS, and JavaScript. Like many developers, I started by experimenting with simple web pages, animations, and interactive components. I was fascinated by how a few lines of code could turn an idea into something people could actually use.
 
 That curiosity quickly became a passion.
 
-### ⚙️ 2021 — Discovering Backend Engineering
+#### ⚙️ 2021 — Discovering Backend Engineering
 
 As my projects became more complex, I found myself spending less time on the frontend and more time exploring everything happening behind the scenes.
 
@@ -27,19 +27,19 @@ I became fascinated by databases, REST APIs, authentication, server architecture
 
 This was the point where I knew backend engineering was the path I wanted to pursue.
 
-### 🤖 2023 — Diving into Artificial Intelligence
+#### 🤖 2023 — Diving into Artificial Intelligence
 
 Curiosity eventually led me into Artificial Intelligence and Machine Learning. I started learning Python, scikit-learn, and PyTorch to better understand how intelligent systems are built.
 
 Although backend development remains my primary focus, studying AI gave me a broader perspective on solving complex problems and building smarter applications.
 
-### 🎓 2024 — B.Tech in Computer Science
+#### 🎓 2024 — B.Tech in Computer Science
 
 To strengthen my foundation, I joined **Netaji Subhas Institute of Technology (NSIT)** to pursue a Bachelor's degree in Computer Science and Engineering.
 
 Since then, I've been continuously improving my understanding of Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Object-Oriented Programming, and System Design—while building projects that put those concepts into practice.
 
-### 🛠️ 2026 — Building Products, One Commit at a Time
+#### 🛠️ 2026 — Building Products, One Commit at a Time
 
 Today, I spend most of my time building software instead of just learning about it.
 
