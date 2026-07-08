@@ -103,8 +103,8 @@ Some of the projects I'm currently working on include:
 
 <div align="center"
  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=aryankpandey)](https://git.io/streak-stats)
   
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
   
   ## Github Stats
