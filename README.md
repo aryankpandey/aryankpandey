@@ -78,21 +78,12 @@ Today, I spend most of my time building software instead of just learning about 
 
 ---
 
-## 💻 LeetCode Stats
-<div align="center">
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/aryankpandey?theme=dark&ext=heatmap)
-
-</div>
-
----
-
 ## Github Streak
 
 <div align="center"
  
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aryankpandey)](https://git.io/streak-stats)
 </div>
   
   ## Github Stats
