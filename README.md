@@ -78,14 +78,6 @@ Today, I spend most of my time building software instead of just learning about 
 
 ---
 
-## Github Streak
-
-<div align="center"
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=aryankpandey&theme=highcontrast&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
-  
-</div>
-  
   ## Github Stats
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryankpandey)](https://github.com/aryankpandey/github-readme-activity-graph)
 
