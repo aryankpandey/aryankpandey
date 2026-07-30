@@ -81,9 +81,9 @@ Today, I spend most of my time building software instead of just learning about 
 ## Github Streak
 
 <div align="center"
- 
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=aryankpandey)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=aryankpandey&theme=highcontrast&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+  
 </div>
   
   ## Github Stats
