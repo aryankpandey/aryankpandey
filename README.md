@@ -1,7 +1,9 @@
 
 
 # Hi there, I'm Aryan K Pandey
-https://linkly.dev/aryankumarpandey
+
+👉 **[View my Portfolio](https://linkly.dev/aryankumarpandey)**
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dyNnZyeGo2OW84a3d2NG52OXd5dnprOXBia25oYXUwcms4Z3FoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200" alt="Coding GIF">
 <p>
   
