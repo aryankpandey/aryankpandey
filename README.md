@@ -4,7 +4,8 @@
 
 👉 **[View my Portfolio](https://aryan-kumar-pandey.vercel.app/)**
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dyNnZyeGo2OW84a3d2NG52OXd5dnprOXBia25oYXUwcms4Z3FoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200" alt="Coding GIF">
+<img width="200" height="300" alt="hero-img" src="https://github.com/user-attachments/assets/b4e0bcde-b561-40d3-ba78-5d32ed4964f2" />
+
 <p>
   
 I'm a Backend Engineer and Computer Science undergraduate passionate about building scalable systems, designing reliable APIs, and solving real-world problems through software. My primary focus is on **Java**, **Go**, **Spring Boot**, **PostgreSQL**, and modern backend technologies, while continuously exploring distributed systems, cloud infrastructure, and AI-powered applications.
